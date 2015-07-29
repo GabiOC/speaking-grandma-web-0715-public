@@ -11,8 +11,8 @@
 
 def speak_to_grandma(str)
 	if str.upcase == str
-		return "NO, NOT SINCE 1938!"
+		"NO, NOT SINCE 1938!"
 	else
-		return "HUH?! SPEAK UP, SONNY!"
+		"HUH?! SPEAK UP, SONNY!"
 	end
 end
